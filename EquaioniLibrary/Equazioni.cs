@@ -19,7 +19,7 @@ namespace EquaioniLibrary
                     int prodotto = 1;
                     for (int i = 2; i <= n; i++)
                     {
-                        prodotto *= i;
+                    prodotto *= i;
                     }
                     return prodotto;
                 }
